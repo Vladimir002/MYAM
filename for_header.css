@@ -1,0 +1,32 @@
+header{
+	background-image: url("img/Header.png");
+    height: 140px;
+	background-repeat: no-repeat;}
+
+
+ .header-div{
+ 	display: flex;
+ 	margin-left: 90px;
+ 	padding-top: 35px;
+ 	column-gap: 100px;
+ 	padding-bottom: 80px;
+ }
+
+ .vert-al-txt{
+ 	column-gap: 50px;
+ 	align-self: flex-end;
+ }
+
+.links-3{
+ 	position: absolute;
+ 	top: 0px;
+ 	right: 80px;
+ }
+
+ a{
+ 	text-decoration: none;
+ 	color: white;
+ }
+ .a-h:hover{
+ 	color: white;
+ }
